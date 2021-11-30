@@ -21,6 +21,7 @@ require_once './routes/MesaRoute.php';
 require_once './routes/ProductoRoute.php';
 require_once './routes/PedidoRoute.php';
 require_once './routes/EncuestaRoute.php';
+require_once './routes/PdfRoute.php';
 
 $app->run();
 
